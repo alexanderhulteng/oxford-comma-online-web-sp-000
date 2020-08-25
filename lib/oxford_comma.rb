@@ -5,9 +5,7 @@ array.each do
 end
 if arr = 2
   array.join(" and ")
-elsif arr > 2
 
-  array.join(" , ")
 end
 
 end
