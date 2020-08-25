@@ -4,7 +4,7 @@ array.each do
   arr += 1
 end
 if arr = 2
-  array.join(" and ")
+  array.split(" and ")
 
 end
 
